@@ -137,7 +137,7 @@ function addEventListeners(page_maps, randomize_at_start, start_dressed, clickra
                 if (randomize_at_start) { onElementLoaded(selector).then( () => {randomizeWaifu(selector, start_dressed, max_shift, top_margin);}) }
                 else {shiftUp(selector, max_shift, top_margin);}
 
-                if (clickrandomize) { onElementLoaded(selector).then( () => {document.querySelector(selector).addEventListener("click", () => randomizeWaifu(selector, max_shift, top_margin));}) }
+                if (clickrandomize) { onElementLoaded(selector).then( () => {document.querySelector(selector).addEventListener("click", () => randomizeWaifu(selector, start_dressed, max_shift, top_margin));}) }
                 if (cycle)          { onElementLoaded(selector).then( () => {document.querySelector(selector).addEventListener('wheel', () => cycleWaifu(event, selector, max_shift, top_margin))}); }
             }
         }
