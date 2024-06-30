@@ -12,6 +12,8 @@ To install WaifuRandomizer:
 
 Next time you refresh the game, your waifus will be randomized!
 
+There are some settings at the top of the script if you want to customize your experience further. The default settings provide the intended experience.
+
 If you have any suggestions or find any bugs (there are several, this was a personal project that I decided I ought to share, and I am not a js guru) feel free to let me know. If enough people show interest in it, I may increase functionality. 
 
 Please share with your friends and club!
