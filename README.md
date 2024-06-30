@@ -8,6 +8,7 @@ To use it, you will need to install the Tampermonkey addon for chrome, which is 
 To install WaifuRandomizer, open the Tampermonkey dashboard (from the little black icon at the top right of chrome), open "installed userscripts" tab if it isnt open already, and drag and drop the script into the browser.
 Next time you refresh the game, your waifus will be randomized!
 
-If you have any suggestions or find any bugs (there are several, this was a personal project that I decided I ought to share, and I am not a js guru) feel free to let me know. If enough people show interest in it, I may increase functionality.
+If you have any suggestions or find any bugs (there are several, this was a personal project that I decided I ought to share, and I am not a js guru) feel free to let me know. If enough people show interest in it, I may increase functionality. Please share with your friends and club! Us degens gotta unite.
 
 Lastly, if you get enjoyment out of this little script and want to throw a few bucks my way, I set up a patreon here: patreon.com/ADGenerit
+
